@@ -349,16 +349,16 @@ p{
    background-position: center;
 }
 .service-item:nth-child(1){
-   background-image: url(../01-/images/work-1.png);
+   background-image: url(images/work-1.png);
 }
 .service-item:nth-child(2){
-   background-image: url(../01-/images/work-2.png);
+   background-image: url(images/work-2.png);
 }
 .service-item:nth-child(3){
-   background-image: url(../01-/images/work-3.png);
+   background-image: url(images/work-3.png);
 }
 .service-item:nth-child(4){
-   background-image: url(../01-/images/work.jpeg);
+   background-image: url(images/work.jpeg);
 }
 .service-item::after{
    content: '';
